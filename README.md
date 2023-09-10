@@ -53,4 +53,4 @@ Create a python folder and paste the codes from the code tab into the python pro
 
 
 # THE GAME
-If you played Friday Night Funkin, this should look familiar to you. 16 blocks will drop and you have to press tile 8, 9, A and B to catch them. React fast as faster reaction time increases your score. Red blocks are those you need to catch. Yellow light will light up at where you press. Yellow will eventually turn purple if you press it for too long. Music will play to confirm you pressing. Your end score will be shown in the terminal of your project in Visual Studio Code. 
+If you played Friday Night Funkin, this should look familiar to you. 16 blocks will drop and you have to press tile 8, 9, A and B to catch them. React fast as faster reaction time lead to longer music. Red blocks are those you need to catch. Yellow light will light up at where you press. Yellow will eventually turn purple if you press it for too long. Music will play to confirm you pressing. 
