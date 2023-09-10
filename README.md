@@ -35,8 +35,22 @@ Download the latest version of CircuitPython from for the Raspberry Pi Pico [her
 ### CircuitPython Libraries
 Open the [following site](https://circuitpython.org/libraries) and choose the CircuitPython Bundle appropriate for your system. In this instance, if CircuitPython 8.x is installed, select the bundle for Version 8.x. We will be using the `/lib/adafruit_midi` folder, and `/lib/adafruit_dotstar.mpy` driver. Documentation for both libraries can be found [here](https://docs.circuitpython.org/projects/midi/en/latest/) and [here](https://docs.circuitpython.org/projects/dotstar/en/latest/) respectively.
 
+
+
 ### Pimoroni Libraries
 Next, download [the following git repository](https://github.com/pimoroni/pmk-circuitpython). We will be using the `/lib/pmk` folder. Documentation for this library is available in the README.md file.
 
 ### Installing Libraries
 In the mounted Pico drive, select (or create if it's absent) a top level `lib` folder. Copy and paste the mentioned libraries into the `lib` folder.
+
+### Download Visual Studio
+Download [Visual Studio Code](https://code.visualstudio.com/download) and download extension python.
+
+### Python codes
+Create a python folder and paste the codes from the code tab into the python project
+
+### LMMS
+
+
+# THE GAME
+If you played Friday Night Funkin, this should look familiar to you. 16 blocks will drop and you have to press tile 8, 9, A and B to catch them. React fast as faster reaction time increases your score. Red blocks are those you need to catch. Yellow light will light up at where you press. Yellow will eventually turn purple if you press it for too long. Music will play to confirm you pressing. Your end score will be shown in the terminal of your project in Visual Studio Code. 
